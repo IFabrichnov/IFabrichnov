@@ -11,7 +11,7 @@
 - 🔭 I’m currently working in [MindSet](https://github.com/MindSetLib)
 
 
--  🎓 Graduated from [MPEI](mpei.ru)
+-  🎓 Graduated from [Moscow Power Engineering Institute](https://en.wikipedia.org/wiki/Moscow_Power_Engineering_Institute)
 
 
 - 🌎 Living in Moscow
