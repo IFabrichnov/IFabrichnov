@@ -8,9 +8,6 @@
 ### <div align="center"> [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/woodyh92) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanfabrichnov/) </div>
 
 
-- 🔭 I’m currently working in [MindSet](https://github.com/MindSetLib)
-
-
 -  🎓 Graduated from [Moscow Power Engineering Institute](https://en.wikipedia.org/wiki/Moscow_Power_Engineering_Institute)
 
 
