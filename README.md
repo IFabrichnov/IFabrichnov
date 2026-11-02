@@ -12,7 +12,7 @@
 
 ### 🛠 Навыки
 
-| | |
+| Категория | Навыки |
 |---|---|
 | **Языки и фронтенд** | `JavaScript` `TypeScript` `React` `Redux` `HTML` `CSS` `SASS / LESS` |
 | **UI и вёрстка** | `Bootstrap` `Material UI` `Foundation email` |
