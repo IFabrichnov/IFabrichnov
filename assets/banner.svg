@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 896 212" width="896" height="212" role="img" aria-label="Ivan Fabrichnov - Software Developer">
+  <title>Ivan Fabrichnov - Software Developer</title>
+  <style>
+    .t { font-family: "Segoe UI", Inter, Roboto, "Helvetica Neue", Arial, sans-serif; fill: #004AAD; }
+    .name { font-size: 25px; font-weight: 700; letter-spacing: 0.2px; }
+    .role { font-size: 19px; font-weight: 400; }
+    .meta { font-size: 16px; font-weight: 400; opacity: 0.92; }
+  </style>
+
+  <rect width="896" height="212" fill="#F4FBFF"/>
+
+  <g transform="translate(616 1)">
+    <g shape-rendering="geometricPrecision">
+      <rect width="70" height="70" fill="#004AAD"/>
+      <path d="M0 38 A35 35 0 0 1 70 38 Z" fill="#38B6FF"/>
+      <circle cx="35" cy="40" r="19" fill="#5271FF"/>
+
+      <path d="M140 0 L140 70 L70 70 Z" fill="#5271FF"/>
+      <circle cx="104" cy="34" r="18.5" fill="#38B6FF"/>
+
+      <circle cx="175" cy="35" r="35" fill="#004AAD"/>
+
+      <rect x="210" width="70" height="70" fill="#5271FF"/>
+      <circle cx="246" cy="36" r="18.5" fill="#38B6FF"/>
+
+      <rect x="70" y="70" width="70" height="70" fill="#004AAD"/>
+      <g fill="#38B6FF">
+        <circle cx="105" cy="105" r="17"/>
+        <circle cx="87" cy="105" r="17"/>
+        <circle cx="123" cy="105" r="17"/>
+        <circle cx="105" cy="87" r="17"/>
+        <circle cx="105" cy="123" r="17"/>
+      </g>
+
+      <path d="M140 70 L210 70 L210 140 Z" fill="#5271FF"/>
+      <path d="M140 70 L210 140 L140 140 Z" fill="#38B6FF"/>
+
+      <circle cx="245" cy="105" r="35" fill="#004AAD"/>
+
+      <path d="M140 140 L210 140 L140 210 Z" fill="#004AAD"/>
+
+      <rect x="210" y="140" width="70" height="70" fill="#5271FF"/>
+      <path d="M243 141 A34 34 0 0 1 243 209 Z" fill="#38B6FF"/>
+      <path d="M243 158 A17 17 0 0 1 243 192 Z" fill="#5271FF"/>
+    </g>
+  </g>
+
+  <text class="t name" x="33" y="52">Ivan Fabrichnov</text>
+  <text class="t role" x="33" y="80">Software Developer</text>
+  <text class="t meta" x="33" y="113">ifabrichnov@yandex.ru</text>
+  <text class="t meta" x="33" y="140">Telegram: @woodyh92</text>
+</svg>

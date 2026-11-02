@@ -1,0 +1,17 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node / npm (в этом репозитории нет JS-проекта, но на всякий случай)
+node_modules/
+npm-debug.log*
+
+# Временные файлы
+_tmp_*
+*.log
